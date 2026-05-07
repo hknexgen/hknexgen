@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hari Kiran
-- 👀 I’m interested in Machine learning.
-- 🌱 I’m currently learning React 
-- 💞️ I’m looking to collaborate on Spring Boot projects.
+- 👀 I’m interested in exploring new AI tools
+- 🌱 I’m currently working with Full stack and AI First apps
+- 💞️ I’m looking to collaborate on AI/ML Projects
 - 📫 How to reach me hknexgen@gmail.com
 
 <!---
